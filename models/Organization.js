@@ -17,11 +17,12 @@ const OrganizationSchema = new mongoose.Schema({
 
   payrollSettings: {
     paymentGateway: { type: String, enum: ["Stripe", "Razorpay", "PayPal"], default:"Stripe", required: true },
-    salaryDisbursementDate: { type: Number, default: 30 }, // Day of the month salaries are processed
+    salaryDisbursementDate: { type: Number, default: 28 }, // Day of the month salaries are processed
   },
 
   createdAt: { type: Date, default: Date.now },
   updatedAt: { type: Date, default: Date.now },
 });
 
-export const Organization = mongoose.model("Organization", OrganizationSchema);
+const Organization = mongoose.model("Organization", OrganizationSchema);
+export default Organization;

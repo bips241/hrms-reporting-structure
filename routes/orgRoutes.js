@@ -1,5 +1,5 @@
 import express from "express";
-import { Organization } from "../models/Organization.js";
+import Organization from "../models/Organization.js";
 
 const router = express.Router();
 

@@ -1,0 +1,135 @@
+[
+    {
+      "_id": "67e226502859b1b72f8ce810",
+      "organizationId": "67e225502859b1b72f8ce80d",
+      "name": "Alice Johnson",
+      "email": "alice@techcorp.com",
+      "role": "Software Engineer",
+      "reportingManagerId": "67e226502859b1b72f8ce812",
+      "teamLeadId": "67e226502859b1b72f8ce811",
+      "salary": 80000,
+      "bankAccount": "1234567890"
+    },
+    {
+      "_id": "67e226502859b1b72f8ce811",
+      "organizationId": "67e225502859b1b72f8ce80d",
+      "name": "Bob Williams",
+      "email": "bob@techcorp.com",
+      "role": "Team Lead",
+      "reportingManagerId": "67e226502859b1b72f8ce813",
+      "teamLeadId": null,
+      "salary": 95000,
+      "bankAccount": "2345678901"
+    },
+    {
+      "_id": "67e226502859b1b72f8ce812",
+      "organizationId": "67e225502859b1b72f8ce80d",
+      "name": "Charlie Brown",
+      "email": "charlie@techcorp.com",
+      "role": "Engineering Manager",
+      "reportingManagerId": null,
+      "teamLeadId": null,
+      "salary": 120000,
+      "bankAccount": "3456789012"
+    },
+    {
+      "_id": "67e226502859b1b72f8ce813",
+      "organizationId": "67e225502859b1b72f8ce80d",
+      "name": "David Smith",
+      "email": "david@techcorp.com",
+      "role": "CTO",
+      "reportingManagerId": null,
+      "teamLeadId": null,
+      "salary": 150000,
+      "bankAccount": "4567890123"
+    },
+    {
+      "_id": "67e226502859b1b72f8ce814",
+      "organizationId": "67e225502859b1b72f8ce80e",
+      "name": "Eve Adams",
+      "email": "eve@devsolutions.com",
+      "role": "Software Engineer",
+      "reportingManagerId": "67e226502859b1b72f8ce816",
+      "teamLeadId": "67e226502859b1b72f8ce815",
+      "salary": 75000,
+      "bankAccount": "5678901234"
+    },
+    {
+      "_id": "67e226502859b1b72f8ce815",
+      "organizationId": "67e225502859b1b72f8ce80e",
+      "name": "Frank Miller",
+      "email": "frank@devsolutions.com",
+      "role": "Team Lead",
+      "reportingManagerId": "67e226502859b1b72f8ce817",
+      "teamLeadId": null,
+      "salary": 92000,
+      "bankAccount": "6789012345"
+    },
+    {
+      "_id": "67e226502859b1b72f8ce816",
+      "organizationId": "67e225502859b1b72f8ce80e",
+      "name": "Grace Lee",
+      "email": "grace@devsolutions.com",
+      "role": "Engineering Manager",
+      "reportingManagerId": null,
+      "teamLeadId": null,
+      "salary": 118000,
+      "bankAccount": "7890123456"
+    },
+    {
+      "_id": "67e226502859b1b72f8ce817",
+      "organizationId": "67e225502859b1b72f8ce80e",
+      "name": "Henry Clark",
+      "email": "henry@devsolutions.com",
+      "role": "CTO",
+      "reportingManagerId": null,
+      "teamLeadId": null,
+      "salary": 140000,
+      "bankAccount": "8901234567"
+    },
+    {
+      "_id": "67e226502859b1b72f8ce818",
+      "organizationId": "67e225502859b1b72f8ce80f",
+      "name": "Isla Roberts",
+      "email": "isla@cloudtech.com",
+      "role": "Software Engineer",
+      "reportingManagerId": "67e226502859b1b72f8ce81a",
+      "teamLeadId": "67e226502859b1b72f8ce819",
+      "salary": 78000,
+      "bankAccount": "9012345678"
+    },
+    {
+      "_id": "67e226502859b1b72f8ce819",
+      "organizationId": "67e225502859b1b72f8ce80f",
+      "name": "Jack White",
+      "email": "jack@cloudtech.com",
+      "role": "Team Lead",
+      "reportingManagerId": "67e226502859b1b72f8ce81b",
+      "teamLeadId": null,
+      "salary": 98000,
+      "bankAccount": "0123456789"
+    },
+    {
+      "_id": "67e226502859b1b72f8ce81a",
+      "organizationId": "67e225502859b1b72f8ce80f",
+      "name": "Katie Green",
+      "email": "katie@cloudtech.com",
+      "role": "Engineering Manager",
+      "reportingManagerId": null,
+      "teamLeadId": null,
+      "salary": 125000,
+      "bankAccount": "1234509876"
+    },
+    {
+      "_id": "67e226502859b1b72f8ce81b",
+      "organizationId": "67e225502859b1b72f8ce80f",
+      "name": "Liam Scott",
+      "email": "liam@cloudtech.com",
+      "role": "CTO",
+      "reportingManagerId": null,
+      "teamLeadId": null,
+      "salary": 155000,
+      "bankAccount": "2345608765"
+    }
+  ]
+  

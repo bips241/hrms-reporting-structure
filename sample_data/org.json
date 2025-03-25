@@ -1,0 +1,60 @@
+[
+    {
+      "name": "TechCorp Inc.",
+      "registrationNumber": "TC123456",
+      "address": "123 Main Street, NY, USA",
+      "contactEmail": "contact@techcorp.com",
+      "contactPhone": "+1 123-456-7890",
+      "employees": [],
+      "bankDetails": {
+        "accountNumber": "9876543210",
+        "bankName": "Chase Bank",
+        "ifscCode": "CHASUS33"
+      },
+      "payrollSettings": {
+        "paymentGateway": "Stripe",
+        "salaryDisbursementDate": 30
+      },
+      "createdAt": "2025-03-24T22:32:57.970Z",
+      "updatedAt": "2025-03-24T22:32:57.971Z"
+    },
+    {
+      "name": "DevSolutions Ltd.",
+      "registrationNumber": "DS987654",
+      "address": "456 Elm Street, SF, USA",
+      "contactEmail": "info@devsolutions.com",
+      "contactPhone": "+1 987-654-3210",
+      "employees": [],
+      "bankDetails": {
+        "accountNumber": "1234567890",
+        "bankName": "Bank of America",
+        "ifscCode": "BOFAUS3N"
+      },
+      "payrollSettings": {
+        "paymentGateway": "PayPal",
+        "salaryDisbursementDate": 28
+      },
+      "createdAt": "2025-03-24T23:15:30.000Z",
+      "updatedAt": "2025-03-24T23:15:30.000Z"
+    },
+    {
+      "name": "CloudTech Solutions",
+      "registrationNumber": "CT567890",
+      "address": "789 Pine Street, Seattle, USA",
+      "contactEmail": "support@cloudtech.com",
+      "contactPhone": "+1 555-666-7777",
+      "employees": [],
+      "bankDetails": {
+        "accountNumber": "1122334455",
+        "bankName": "Wells Fargo",
+        "ifscCode": "WFBIUS6S"
+      },
+      "payrollSettings": {
+        "paymentGateway": "Razorpay",
+        "salaryDisbursementDate": 25
+      },
+      "createdAt": "2025-03-25T10:45:12.000Z",
+      "updatedAt": "2025-03-25T10:45:12.000Z"
+    }
+  ]
+  
